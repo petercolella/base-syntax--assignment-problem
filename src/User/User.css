@@ -1,0 +1,11 @@
+.User {
+    width: 50%;
+    margin: 4px auto;
+    border: 2px solid blue;
+    padding: 4px;
+    text-align: center;
+}
+
+.User input {
+    text-align: center;
+}
