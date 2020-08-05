@@ -4,10 +4,10 @@
   "private": true,
   "dependencies": {
     "extend": "^3.0.2",
-    "handlebars": "^4.3.0",
+    "handlebars": "^4.7.6",
     "merge": "^1.2.1",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
     "react-scripts": "^3.4.1"
   },
   "scripts": {
